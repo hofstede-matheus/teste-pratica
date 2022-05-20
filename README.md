@@ -1,3 +1,3 @@
 # teste-pratica
 
-- [] Write the press release
+- [ ] Write the press release
