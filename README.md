@@ -1,6 +1,6 @@
 # teste-pratica
 
-- [ ] Hofs
+- [x] Hofs
 - [ ] aliciaengcomp
 - [ ] amanda.monteiro
 - [ ] anamonicaccosta
